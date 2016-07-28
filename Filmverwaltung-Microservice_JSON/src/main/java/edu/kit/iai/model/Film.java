@@ -519,4 +519,8 @@ public class Film extends AbstractElement {
 		}
 		return iD;
 	}
+	
+	public void xx(){
+		
+	}
 }
